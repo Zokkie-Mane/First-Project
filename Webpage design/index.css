@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,500&display=swap");
+
+* {
+  font-family: "Work Sans", sans-serif;
+}
+
+.main {
+  background-color: #778899;
+  background-size: 64px 128px;
+  padding: 0 20px;
+  color: rgb(20, 20, 20);
+}
+ul {
+  list-style-type: square;
+  font-size: 10;
+}
+
+li {
+  padding: 10px 0;
+}
+
+h1 {
+  font-family: Roboto Sans;
+  font-size: 30px;
+}
+ul {
+  border: 1px black;
+}
